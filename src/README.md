@@ -16,5 +16,18 @@ Historical periods for hotels are added, and pricing is determined based on thes
 ---
 
 **Note:** Feel free to adjust and expand upon this content based on additional requirements or specific features you plan to implement in your system.
-![Ekran Resmi 2024-02-04 21.52.37.png](..%2F..%2FEkran%20Resmi%202024-02-04%2021.52.37.png)![Ekran Resmi 2024-02-04 21.54.48.png](..%2F..%2FEkran%20Resmi%202024-02-04%2021.54.48.png)![Ekran Resmi 2024-02-04 21.57.03.png](..%2F..%2FEkran%20Resmi%202024-02-04%2021.57.03.png)![Ekran Resmi 2024-02-04 21.54.48.png](..%2F..%2FEkran%20Resmi%202024-02-04%2021.54.48.png)![Ekran Resmi 2024-02-04 21.54.23.png](..%2F..%2FEkran%20Resmi%202024-02-04%2021.54.23.png)![Ekran Resmi 2024-02-04 21.59.46.png](..%2F..%2FEkran%20Resmi%202024-02-04%2021.59.46.png)![Ekran Resmi 2024-02-04 21.58.37.png](..%2F..%2FEkran%20Resmi%202024-02-04%2021.58.37.png)
 
+![Ekran Resmi 2024-02-04 23.00.42.png](..%2F..%2FEkran%20Resmi%202024-02-04%2023.00.42.png)
+
+
+![Ekran Resmi 2024-02-04 23.02.41.png](..%2F..%2FEkran%20Resmi%202024-02-04%2023.02.41.png)
+
+![Ekran Resmi 2024-02-04 23.05.11.png](..%2F..%2FEkran%20Resmi%202024-02-04%2023.05.11.png)
+
+![Ekran Resmi 2024-02-04 23.04.57.png](..%2F..%2FEkran%20Resmi%202024-02-04%2023.04.57.png)
+
+![Ekran Resmi 2024-02-04 23.04.28.png](..%2F..%2FEkran%20Resmi%202024-02-04%2023.04.28.png)
+
+![Ekran Resmi 2024-02-04 23.03.35.png](..%2F..%2FEkran%20Resmi%202024-02-04%2023.03.35.png)
+
+![Ekran Resmi 2024-02-04 23.02.41.png](..%2F..%2FEkran%20Resmi%202024-02-04%2023.02.41.png)
