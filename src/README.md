@@ -26,17 +26,15 @@ Historical periods for hotels are added, and pricing is determined based on thes
 
 **Note:** Feel free to adjust and expand upon this content based on additional requirements or specific features you plan to implement in your system.
 
-![Ekran Resmi 2024-02-04 23.00.42.png](..%2F..%2FEkran%20Resmi%202024-02-04%2023.00.42.png)
+<img width="462" alt="Login" src="https://github.com/Researcher0619/Tourism-Agency/assets/102052449/4a682b99-bcad-4b13-8dcc-0e1b84b42252">
 
+<img width="1412" alt="Search" src="https://github.com/Researcher0619/Tourism-Agency/assets/102052449/2918e408-8d39-4117-b645-5c03b0dc017b">
 
-![Ekran Resmi 2024-02-04 23.02.41.png](..%2F..%2FEkran%20Resmi%202024-02-04%2023.02.41.png)
+<img width="1412" alt="Reservation" src="https://github.com/Researcher0619/Tourism-Agency/assets/102052449/3318baa5-a52d-4015-adc9-84ddd8f5b858">
 
-![Ekran Resmi 2024-02-04 23.05.11.png](..%2F..%2FEkran%20Resmi%202024-02-04%2023.05.11.png)
+<img width="1412" alt="Hotels" src="https://github.com/Researcher0619/Tourism-Agency/assets/102052449/5e33e254-74a8-498a-b360-cf31c0a644ac">
 
-![Ekran Resmi 2024-02-04 23.04.57.png](..%2F..%2FEkran%20Resmi%202024-02-04%2023.04.57.png)
+<img width="1318" alt="Facility Feature" src="https://github.com/Researcher0619/Tourism-Agency/assets/102052449/6bb4981f-28ab-4a18-a8c9-a64d442c64d0">
 
-![Ekran Resmi 2024-02-04 23.04.28.png](..%2F..%2FEkran%20Resmi%202024-02-04%2023.04.28.png)
+<img width="912" alt="Employees" src="https://github.com/Researcher0619/Tourism-Agency/assets/102052449/9c791350-cf83-41a1-9d07-514b21839222">
 
-![Ekran Resmi 2024-02-04 23.03.35.png](..%2F..%2FEkran%20Resmi%202024-02-04%2023.03.35.png)
-
-![Ekran Resmi 2024-02-04 23.02.41.png](..%2F..%2FEkran%20Resmi%202024-02-04%2023.02.41.png)
